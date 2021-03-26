@@ -1,0 +1,13 @@
+body{
+
+}
+.exam-name{
+    display:inline;
+}
+.image{
+    //margin: 100px;
+    //padding: 2000px;
+    border: outset;
+    border-color: black;
+    width:200px;
+}

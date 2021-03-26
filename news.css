@@ -1,0 +1,24 @@
+
+ul{
+    color:#3d4aff;
+    font-family:Quicksand;
+    font-size:17px;
+    border-left: 4px solid #00f3ff ;
+    margin:15px;
+    
+}
+h1{
+	font-family:Acme;
+	color: #fbc00f;
+	border-bottom: 4px solid red;
+	padding:11px;
+}
+li:hover{
+	color:red;
+	
+}
+body{
+	background-image:url("11.jpg");
+}
+	/* unvisited link */
+

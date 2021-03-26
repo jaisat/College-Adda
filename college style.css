@@ -1,0 +1,27 @@
+body{
+
+}
+.head{
+    display: block;
+    justify-content:center;
+    align-content: center;
+    width:30%;
+    height:auto;
+    margin-left:auto;
+    margin-right:auto;
+    padding:5px;
+    border:solid;
+    
+    border-color:white;
+}
+.fee{
+    display:block;
+    width:40%;
+    height:auto;
+}
+.note{
+    color:gold;
+    margin-left:25%;
+    //display: block;
+    width:50%;
+}
